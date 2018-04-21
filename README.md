@@ -1,1 +1,1 @@
-# The_Fraction_Class
+This C++ code sample is to demonstrate basic object oriented programming abilities.
